@@ -1,0 +1,2 @@
+- Features windowed/fullscreen options.
+- Selectable resolution and starting levels.
